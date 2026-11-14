@@ -1,0 +1,6 @@
+{
+  "name": "Trading Master: Complete Chart & Candlestick Patterns Guide",
+  "description": "Comprehensive mobile guide to candlestick and classic chart patterns for stock, crypto, and forex traders featuring interactive diagrams, identification rules, entry points, and stop-loss targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
